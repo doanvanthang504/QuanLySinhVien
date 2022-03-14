@@ -1,0 +1,10 @@
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\bin\Debug\Bai53_QuanLySinhVien.exe.config
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\bin\Debug\Bai53_QuanLySinhVien.exe
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\bin\Debug\Bai53_QuanLySinhVien.pdb
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.Properties.Resources.resources
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.csproj.GenerateResource.cache
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.exe
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.pdb
+D:\Code_VisualStudio\BT_TongHop\Bai53_QuanLySinhVien\Bai53_QuanLySinhVien\obj\Debug\Bai53_QuanLySinhVien.frmMain.resources
